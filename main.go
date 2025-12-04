@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"myapp/decrypt"
-	"myapp/encrypt"
+
+	"github.com/gautamchaterji/myapp/decrypt"
+	"github.com/gautamchaterji/myapp/encrypt"
 )
 
 func main() {
